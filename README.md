@@ -1,6 +1,3 @@
-<a href="https://pixeljeff1995.artstation.com/projects/8eelbG">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="MasterHead" style="width: 100%; height: auto;;"/>
-</a>
 <h1 align="center">Hi 👋, I'm Abdullah Ahmad Arslan</h1>
 <h3 align="center">I'm an experienced full stack web developer, merging creativity and AI/ML expertise to build smarter, dynamic solutions</h3>
 <br>
